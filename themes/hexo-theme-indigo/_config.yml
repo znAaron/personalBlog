@@ -9,7 +9,7 @@
 #    target: _blank    是否跳出，省略则在当前页面打开
 menu:
   home:
-    text: /home
+    text: home
     url: /
   archives:
     url: /archives
@@ -38,7 +38,7 @@ favicon: /favicon.ico
 email: developer@znaaron.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
-color: '#3F51B5'
+color: '#aa00ff'
 
 # 页面标题
 tags_title: Tags
@@ -60,7 +60,7 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 谢谢大爷~
+  title: 请作者恰咖啡
   wechat: /img/wechat.jpg     #微信，关闭设为 false
   alipay: /img/alipay.jpg     #支付宝，关闭设为 false
 
