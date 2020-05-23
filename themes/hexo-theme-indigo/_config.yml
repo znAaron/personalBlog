@@ -22,6 +22,9 @@ menu:
     url: https://github.com/znAaron
     target: _blank
   link:
+    text: CSDN
+    url: https://blog.csdn.net/zinanAaron
+  link:
     text: handshake
     url: https://vt.joinhandshake.com/users/11755510
 
@@ -76,7 +79,7 @@ toc:
   list_number: true  # 是否显示数字排序
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
-postMessage: 文章内容如有错漏，欢迎指正。\n联系方式：developer@znaaron.com
+postMessage: 文章内容如有错漏，欢迎指正。联系方式：developer@znaaron.com
 
 # 站长统计，如要开启，输入CNZZ站点id，如 cnzz: 1255152447
 cnzz: false
