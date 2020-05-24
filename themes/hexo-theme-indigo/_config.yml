@@ -15,16 +15,13 @@ menu:
     url: /archives
   tags:
     url: /tags
-  th-list:
-    text: Categories
-    url: /categories
   github:
     url: https://github.com/znAaron
     target: _blank
-  link:
+  CSDN:
     text: CSDN
     url: https://blog.csdn.net/zinanAaron
-  link:
+  handshake:
     text: handshake
     url: https://vt.joinhandshake.com/users/11755510
 
